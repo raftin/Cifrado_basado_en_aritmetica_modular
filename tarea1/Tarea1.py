@@ -193,6 +193,4 @@ while not (Switch):
     except:
         print("Ha ocurrido una excepción")
         break
-##explicar la probabilidad de obtener un numero dentro del mod 29
-## al decifrar un txt crear uno nuevo
 
